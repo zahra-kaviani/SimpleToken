@@ -1,4 +1,7 @@
+This is a simple token with some features. we suppose that a client orders a token for his Music website. codes are written in solidity utilizing open zeppelin contracts , compiled by truffle an deployed on ganache testnet.
+![Capture](https://user-images.githubusercontent.com/54204222/210626108-272d3acd-f217-45d8-b1d9-12f027dfef3f.PNG)
 #If I want to build a token for a client, I would ask below questions from him. I listed the question and answers below.
+
 1.	What is your project? Why do you need a token for it?
 I have a music website which artists can upload their music and users can listen to them depends on the amount of token they porches. So, I need a token so that users can buy and spend on music.
 2.	Does it need a unique token? Sth that users cannot be exchanged like other cryptographic assets or both forms? I mean can have a token that can be changed between these types.
